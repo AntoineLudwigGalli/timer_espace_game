@@ -3,7 +3,7 @@
 ## Origine du projet
 Le projet a été initié par le CCAS Simone Veil de Semur-en-Auxois et la Communauté de Communes des Terres d'Auxois dans le cadre de la semaine du numérique. S'y est associé le Lab'Aux Tiers Lieu de l'Auxois pour apporter son support technique et logistique ainsi que le Conseil Départemental de Côte d'Or.
 Le but de ce projet est de faire vivre une expérience ludique immersive à un public d'enfants à partir de 6 ans et d'adultes tout en les sensibilisant aux risques des outils numériques et plus particulièrement à la protection des données. Le choix de l'escape game
-a été choisi pour véhiculer le message. Etant en octobre 2025, l'escape game mêle culture geek, Halloween, Jeux Olympiques et cyber-sécurité. 
+a été choisi pour véhiculer le message. Etant en octobre 2024, l'escape game mêle culture geek, Halloween, Jeux Olympiques et cyber-sécurité. 
 
 ## Scénario
 Le monde est en liesse car il s'apprète à accueillir en son sein la plus grande compétition de jeux vidéos d'horreur de tout l'univers intergalactique : Les Olympic Halloween Geek Games ! Les joueurs du monde entier vont s'affronter dans des compétitions endiablées 
@@ -31,7 +31,7 @@ Pour rajouter à l'ambiance, le hacker était muni qu'un micro permettant d'int�
 - MJC de Venarey
 - Musée de Semur
 
-Et en 2026 3 autres lieux accueilleront le jeu
+Et en 2025 3 autres lieux accueilleront le jeu
 
 ## Auteurs
 Développé par Lab'Aux - Antoine Ludwig - CCAS Simone Veil - CCTA - Conseil départemental de Côte d'Or
